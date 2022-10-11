@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+- [Vikram Vidhan](https://github.com/vikrambaital)
 - [Robin Maheshwary](https://github.com/RobinMaheshwary)
 - [AnWhiteEd](https://github.com/an-white)
 - [Rao Khuram Shahzad](https://github.com/KhuramShahzad-5335)
